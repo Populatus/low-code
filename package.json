@@ -1,0 +1,15 @@
+{
+  "name": "@populatus/low-code",
+  "private": true,
+  "devDependencies": {
+    "@populatus/eslint-config": "^1.0.5",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "eslint": "^8.15.0",
+    "typescript": "^4.6.4",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.33",
+    "vue": "^3.2.33"
+  }
+}

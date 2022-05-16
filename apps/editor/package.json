@@ -1,0 +1,19 @@
+{
+  "name": "@populatus/editor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@populatus/shared": "workspace:^1.0.0",
+    "less": "^4.1.2"
+  },
+  "devDependencies": {
+    "pinia": "^2.0.14"
+  }
+}
